@@ -18,12 +18,10 @@ This application includes 2 separate repositories for frontend and backend code.
 ```bash
 npm install
 ```
-#### Backend repository
 Link: [Backend repository](https://github.com/Nguyen-Thi-HuyenK/Todos-server), and start the server by running the below command in the command line:
 ```bash
 npm run devStart
 ```
-#### Frontend repository
 Link: [Frontend repository](https://github.com/Nguyen-Thi-HuyenK/Todos), and start the application by running the below command in the command line:
 ```bash
 tsc -p tsconfig.json --watch

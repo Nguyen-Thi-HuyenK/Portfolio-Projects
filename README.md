@@ -2,9 +2,9 @@
 
 Hello there :wave:, thank you for stopping by! I am Huyen, and in this repository, I have documented a collection of small projects that I completed during my studies at OAMK so far.
 
-| Projects | Language   |
-| -----| ---------- |
-|   Todo list  | TypeScript |
+|Order | | Projects | Language   |
+| |   | -----| ---------- |
+| I| |   Todo list  | TypeScript |
 |   2  | Java       |
 |   3  | Python     |
 

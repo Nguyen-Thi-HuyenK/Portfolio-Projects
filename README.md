@@ -17,7 +17,7 @@ This is a very simple application written by Typescript, HTML, CSS (with form co
 ### Run the application
 
 This application includes 2 separate repositories for frontend and backend code. First of all, you should clone both repositories to your local machine, then install all needed dependencies. For more details please refer to the original repositories via the links below:
-#### Link: [Backend repository](https://github.com/Nguyen-Thi-HuyenK/Todos-server)
-#### Link: [Frontend repository](https://github.com/Nguyen-Thi-HuyenK/Todos)
+#### - Link: [Backend repository](https://github.com/Nguyen-Thi-HuyenK/Todos-server)
+#### - Link: [Frontend repository](https://github.com/Nguyen-Thi-HuyenK/Todos)
 
 

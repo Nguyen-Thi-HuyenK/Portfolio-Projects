@@ -22,7 +22,7 @@ This application includes 2 separate repositories for frontend and backend code.
 
 ## II. Calculator app
 This is a simple calculator application built using React and TypeScript. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
-Tämän sovelluksen Readme-tiedosto on kirjoitettu suomeksi, mutta se on yksinkertainen ja helposti ymmärrettävä (The Readme file of this app is written in the Finnish language, however, it is simple and easy to understand).
+**Note:** Tämän sovelluksen Readme-tiedosto on kirjoitettu suomeksi, mutta se on yksinkertainen ja helposti ymmärrettävä (The Readme file of this app is written in the Finnish language, however, it is simple and easy to understand).
 ##### This is how the app looks like in the browser (can be displayed as either dark or light mode):
 ![Calculator-app](https://github.com/Nguyen-Thi-HuyenK/laskin/blob/main/public/Screenshot%20tumma-tila-Laskin.png)
 

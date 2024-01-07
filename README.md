@@ -40,6 +40,7 @@ Please refer to the original repository for the details via the link:
 - The website includes fitness-related blog texts that users can read and comment on, a webshop to buy courses related to fitness and wellness, body mass index and calorie calculators, and short stories about successful user experiences. Our final website looks quite similar to the UI design we did at the beginning of the project. 
 
 - Link for **Figma designs:**  [here.](https://www.figma.com/file/Ue6heavQiI2VgJlcUJp0hR/UI-design---Fitness-website?node-id=0%3A1&t=K3lXatu8Y4xE1sjB-1)
+- For more details, please refer to the original repository of the project via the link: [FitnessWebsite repository](https://github.com/liisatormakangas/FitnessWebsiteProject)
 
 **This is a group project where I worked with others. I was mainly in charge of several pages:**
 - Courses and courses' detail: Partly design and build these pages

@@ -1,5 +1,7 @@
-<style>H1{color: Blue;}</style>
-<style>H2{color: Orange;}</style>
+<style>
+H1{color:Blue !important;}
+H2{color:DarkOrange !important;}
+</style>
 
 # Portfolio-Projects
 ## 🚀 About Me

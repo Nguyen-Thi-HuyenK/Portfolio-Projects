@@ -11,10 +11,10 @@ Hello there :wave:, thank you for stopping by! I am Huyen, I began my journey in
 
 | Order | Project name    | Technologies                |
 | :-------- | :------- | :------------------------- |
-| 1 | Todo list | TypeScript, Node.js, MySQL |
-| 2 | Calculator | TypeScript, Node.js, MySQL |
-| 3 | Fitness website | TypeScript, Node.js, PostgresQL |
-| 4 | DeliveMe | React: TypeScript, Node.js, Express, MySQL |
+| I | Todo list | TypeScript, Node.js, MySQL |
+| II | Calculator | TypeScript, Node.js, MySQL |
+| III | Fitness website | TypeScript, Node.js, PostgresQL |
+| IV | DeliveMe | React: TypeScript, Node.js, Express, MySQL |
 
 ## I. Todo list
 

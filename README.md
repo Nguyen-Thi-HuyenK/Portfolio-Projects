@@ -1,20 +1,21 @@
 # Portfolio-Projects
 
 Hello there :wave:, thank you for stopping by! I am Huyen, I began my journey in Information Technology in August 2022 at OAMK, and it has been an interesting experience with substantial learning along the way. I have completed various small projects, both individually and collaboratively with my team, throughout my studies. In this repository, I have documented a collection of some of these projects.
-## My skills:
+## 🛠 My skills:
 - Front-end technologies: HTML, CSS, Javascript, TypeScript, React.
 - Back-end technologies: Node.js, TypeScript, Express.js.
 - Databases: MySQL, PostgreSQL.
 
-| Projects | Language   | 
-| -----| ---------- |
-|   Todo list  | TypeScript |
-|   2  | Java       |
-|   3  | Python     |
+| Order | Project name    | Technologies                |
+| :-------- | :------- | :------------------------- |
+| 1 | Todo list | TypeScript, Node.js, MySQL |
+| 2 | Calculator | TypeScript, Node.js, MySQL |
+| 3 | Fitness website | TypeScript, Node.js, PostgresQL |
+| 4 | DeliveMe | React: TypeScript, Node.js, Express, MySQL |
 
 ## I. Todo list
 
-This is a simple application written by Typescript, HTML, CSS (with form control and list group class from Bootstrap), and Mysql as a database. This is my first individual task in my first year at OAMK. The application allows users to add To-do tasks to the list. After entering the task, it will be saved to the database. Users can delete the tasks by clicking on the trash bin icon, and the task will then be removed from the UI as well as from the database.
+This is a simple application written by TypeScript, HTML, CSS (with form control and list group class from Bootstrap), and MySQL as a database. This is my first individual task in my first year at OAMK. The application allows users to add To-do tasks to the list. After entering the task, it will be saved to the database. Users can delete the tasks by clicking on the trash bin icon, and the task will then be removed from the UI as well as from the database.
 ##### This is how the app looks like in the browser:
 ![Todo list](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects/blob/main/assets/todo-list.png)
 

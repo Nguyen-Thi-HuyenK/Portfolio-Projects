@@ -68,9 +68,5 @@ Please refer to the original repository for the details via the link:
 - For more details, please refer to the original project which contains 6 repositories:  [DeliverMe repositories](https://github.com/orgs/din22-awap-ParcelDeliveryApp-team1/repositories)
 
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+@@ # Portfolio-Projects@@
 ```

@@ -69,7 +69,7 @@ Please refer to the original repository for the details via the link:
 
 
 ```diff
-- Portfolio-Projects
+-# Portfolio-Projects
 
 @@ text in purple (and bold)@@
 ```

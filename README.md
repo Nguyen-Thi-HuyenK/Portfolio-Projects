@@ -7,6 +7,8 @@ Hello there :wave:, thank you for stopping by! I am Huyen, I began my journey in
 - **Databases:** MySQL, PostgreSQL.
 - I also have some skills in using **Figma**, and **WordPress**
 
+## Summary of my projects:
+
 | Order | Project name    | Technologies                |
 | :-------- | :------- | :------------------------- |
 | 1 | Todo list | TypeScript, Node.js, MySQL |

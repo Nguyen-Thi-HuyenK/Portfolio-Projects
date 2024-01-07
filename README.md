@@ -48,4 +48,19 @@ Please refer to the original repository for the details via the link:
 - Blog page: full-stack developer for blog reaction and comment section. 
 ![Blog reaction and commenting](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects/blob/main/assets/FitnessWebsite/blogReaction.png)
 
+## IV. DeliveMe - React application - Team project
+- This is quite an advanced project in which we were asked to create a web-based automated parcel delivery system that includes 4 separate applications for different user roles. These are Consumer User App, Delivery Truck Driver App, Touchscreen App, and Parcel Generator “robot” App.
+
+- Link for **Figma designs:**  [here.](https://www.figma.com/file/GCcswKBoM0Mw7A1t5ddLME/Parcel-Delivery-App?type=design&node-id=0-1&mode=design&t=OQdyRkzDstrvgy5o-0)
+
+**In this team project, I was mainly in charge of several views in the Consumer user app, writing test plans, and performing React tests and API tests:**
+- Full-stack development of the features for sending a new parcel:
+![sending a new parcel](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects/blob/main/assets/DeliverMe/Detail1.png)
+![Confirm and pincode](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects/blob/main/assets/DeliverMe/Confirm%20and%20pincode.png)
+- Writing test plan, performing 2 React tests and 2 API tests of the consumer use app used react testing library.
+
+- In this project, I had a chance to practice skills of teamwork in using the Kanban process model, Github version control, and different project management tools.
+
+- For more details, please refer to the original project which contains 6 repositories:  [DeliverMe repositories](https://github.com/orgs/din22-awap-ParcelDeliveryApp-team1/repositories)
+
 

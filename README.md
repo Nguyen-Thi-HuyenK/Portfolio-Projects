@@ -32,5 +32,19 @@ This is a simple calculator application built using React and TypeScript. It all
 
 ### Run the application
 Please refer to the original repository for the details via the link:
-- ####  Link: [Calculator-app](https://github.com/Nguyen-Thi-HuyenK/laskin)
+- ####  Link: [Calculator repository](https://github.com/Nguyen-Thi-HuyenK/laskin)
+
+## III. Fitness website - team project
+- This Fitness website has been created as a project work for OAMK first-year Information Technology studies. The task was to implement a web app/site based on the chosen topic and to include certain functionalities such as registering, logging, editing data, and commenting. Implementation was to be done using TypeScript, NodeJS, Express, and PostgreSQL.
+
+- The website includes fitness-related blog texts that users can read and comment on, a webshop to buy courses related to fitness and wellness, body mass index and calorie calculators, and short stories about successful user experiences. Our final website looks quite similar to the UI design we did at the beginning of the project. 
+
+- Link for **Figma designs:**  [here.](https://www.figma.com/file/Ue6heavQiI2VgJlcUJp0hR/UI-design---Fitness-website?node-id=0%3A1&t=K3lXatu8Y4xE1sjB-1)
+
+**This is a group project where I worked with others. I was mainly in charge of several pages:**
+- Courses and courses' detail: Partly design and build these pages
+![Courses and courses' detail](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects/blob/main/assets/FitnessWebsite/Courses-courseDetail.png)
+- Blog page: full-stack developer for blog reaction and comment section. 
+![Blog reaction and commenting](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects/blob/main/assets/FitnessWebsite/blogReaction.png)
+
 

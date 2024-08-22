@@ -76,7 +76,6 @@ Please refer to the original repository for the details via the link:
 ![Confirm and pincode](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects/blob/main/assets/DeliverMe/Confirm%20and%20pincode.png)
 - Demo video
 
-- For more details, please refer to the original project: [GoEat repository](https://github.com/Restaurant-App-Fontys-Project/GoEat-FrontEnd/tree/main)
 
 
 

@@ -66,6 +66,19 @@ Please refer to the original repository for the details via the link:
 - In this project, I had a chance to practice skills of teamwork in using the Kanban process model, Github version control, and different project management tools.
 
 - For more details, please refer to the original project which contains 6 repositories:  [DeliverMe repositories](https://github.com/orgs/din22-awap-ParcelDeliveryApp-team1/repositories)
-
+## V. GoEat - React native mobile application - International team project (Finland + Netherlands)
+- This mobile app, developed using React Native, is compatible with both Android and iPhone. The frontend was designed by OAMK students, while our Dutch counterparts handled the backend. The app is user-friendly, offering customers a wide range of options to search and reserve restaurants based on location and various other criteria.
+- Link for **Figma designs:**  [here.](https://www.figma.com/design/ijCo2hscx1MbkXyas4EfON/GoEat?node-id=0-1&t=zgOCqVPpfy88Hrw3-0) 
+**In this team project, my primary responsibilities included UI design and front-end development. I focused on the Home view, implementing features such as searching for restaurants by name, dish, categories, and subcategories/tags. I also developed the Restaurant view, displaying comprehensive restaurant information, and contributed to the functionality of the Register and Login views.**
+- Below are some screenshots from my part for the app. For a complete overview, please refer to our demo video.
+![sending a new parcel](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects/blob/main/assets/DeliverMe/Detail1.png)
+![Confirm and pincode](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects/blob/main/assets/DeliverMe/Confirm%20and%20pincode.png)
+- Demo video
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=axJ80mFh5Yw" target="_blank">
+        <img src="https://img.youtube.com/vi/axJ80mFh5Yw/0.jpg" alt="Watch the video" />
+    </a>
+</p>
+- For more details, please refer to the original project:  [GoEat repositories](https://github.com/Restaurant-App-Fontys-Project/GoEat-FrontEnd/tree/main)
 
 

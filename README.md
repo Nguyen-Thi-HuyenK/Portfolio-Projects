@@ -77,7 +77,7 @@ Please refer to the original repository for the details via the link:
 - Search for restaurants by name, food and a wide range of other search criteria to choose from:
 ![Various search criteria](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects/blob/main/assets/search%20results.png)
 - Details of the chosen restaurant with its information and also the option to reserve tables:
-![Restaurant details](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects/blob/main/assets/search%20results.png)
+![Restaurant details](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects/blob/main/assets/details.png)
 - Demo video
 <p align="center">
     <a href="https://www.youtube.com/watch?v=axJ80mFh5Yw" target="_blank">

@@ -87,6 +87,6 @@ Please refer to the original repository for the details via the link:
     </a>
 </p>
 
-- For more details, please refer to the original project which contains 6 repositories:  [GoEat repository](https://github.com/Restaurant-App-Fontys-Project/GoEat-FrontEnd)
+- For more details, please refer to the original project:  [GoEat repository](https://github.com/Restaurant-App-Fontys-Project/GoEat-FrontEnd)
 
 

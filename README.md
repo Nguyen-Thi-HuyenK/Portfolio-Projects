@@ -75,7 +75,11 @@ Please refer to the original repository for the details via the link:
 ![sending a new parcel](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects/blob/main/assets/DeliverMe/Detail1.png)
 ![Confirm and pincode](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects/blob/main/assets/DeliverMe/Confirm%20and%20pincode.png)
 - Demo video
-
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=axJ80mFh5Yw" target="_blank">
+        <img src="https://img.youtube.com/vi/axJ80mFh5Yw/0.jpg" alt="Watch the video" />
+    </a>
+</p>
 - For more details, please refer to the original project: [GoEat repository](https://github.com/Restaurant-App-Fontys-Project/GoEat-FrontEnd/tree/main)
 
 

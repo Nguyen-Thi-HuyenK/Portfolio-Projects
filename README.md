@@ -15,6 +15,7 @@ Hello there :wave:, thank you for stopping by! I am Huyen, I began my journey in
 | II | Calculator | TypeScript, Node.js, MySQL |
 | III | Fitness website | TypeScript, Node.js, PostgresQL |
 | IV | DeliveMe | React: TypeScript, Node.js, Express, MySQL |
+| V | GoEat | React native|
 
 ## I. Todo list
 
@@ -72,9 +73,9 @@ Please refer to the original repository for the details via the link:
   
 **In this team project, my primary responsibilities included UI design and front-end development. I focused on the Home view, implementing features such as searching for restaurants by name, dish, categories, and subcategories/tags. I also developed the Restaurant view, displaying comprehensive restaurant information, and contributed to the functionality of the Register and Login views.**
 - Below are some screenshots from my part for the app. For a complete overview, please refer to our demo video.
-- Sign up and earch for restaurants by location options:
+- Sign up and search for restaurants by location options:
 ![Search by location optionsl](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects/blob/main/assets/SignUp%20and%20search.png)
-- Search for restaurants by name, food and a wide range of other search criteria to choose from:
+- Search for restaurants by name, food, and a wide range of other search criteria to choose from:
 ![Various search criteria](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects/blob/main/assets/search%20results.png)
 - Details of the chosen restaurant with its information and also the option to reserve tables:
 ![Restaurant details](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects/blob/main/assets/details.png)

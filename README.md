@@ -11,33 +11,11 @@ Hello there :wave:, thank you for stopping by! I am Huyen, I began my journey in
 
 | Order | Project name    | Technologies                |
 | :-------- | :------- | :------------------------- |
-| I | Todo list | TypeScript, Node.js, MySQL |
-| II | Calculator | TypeScript, Node.js, MySQL |
-| III | Fitness website | TypeScript, Node.js, PostgresQL |
-| IV | DeliveMe | React: TypeScript, Node.js, Express, MySQL |
-| V | GoEat | React native|
 
-## I. Todo list
+| I | Fitness website | TypeScript, Node.js, PostgresQL |
+| II | DeliveMe | React: Javascript/TypeScript, Node.js, Express, MySQL |
+| III | GoEat | React native|
 
-This is a simple application written by TypeScript, HTML, CSS (with form control and list group class from Bootstrap), and MySQL as a database. This is my first individual task in my first year at OAMK. The application allows users to add To-do tasks to the list. After entering the task, it will be saved to the database. Users can delete the tasks by clicking on the trash bin icon, and the task will then be removed from the UI as well as from the database.
-##### This is how the app looks like in the browser:
-![Todo list](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects/blob/main/assets/todo-list.png)
-
-### Run the application
-
-This application includes 2 separate repositories for frontend and backend code. First of all, you should clone both repositories to your local machine, then install all needed dependencies. For more details please refer to the original repositories via the links below:
-- ####  Link: [Backend repository](https://github.com/Nguyen-Thi-HuyenK/Todos-server)
-- ####  Link: [Frontend repository](https://github.com/Nguyen-Thi-HuyenK/Todos)
-
-## II. Calculator app
-This is a simple calculator application built using React and TypeScript. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
-- **Note:** Tämän sovelluksen Readme-tiedosto on kirjoitettu suomeksi, mutta se on yksinkertainen ja helposti ymmärrettävä (The Readme file of this app is written in the Finnish language, however, it is simple and easy to understand).
-##### This is how the app looks like in the browser (can be displayed as either dark or light mode):
-![Calculator-app](https://github.com/Nguyen-Thi-HuyenK/laskin/blob/main/public/Screenshot%20tumma-tila-Laskin.png)
-
-### Run the application
-Please refer to the original repository for the details via the link:
-- ####  Link: [Calculator repository](https://github.com/Nguyen-Thi-HuyenK/laskin)
 
 ## III. Fitness website - team project
 - This Fitness website has been created as a project work for OAMK first-year Information Technology studies. The task was to implement a web app/site based on the chosen topic and to include certain functionalities such as registering, logging, editing data, and commenting. Implementation was to be done using TypeScript, NodeJS, Express, and PostgreSQL.

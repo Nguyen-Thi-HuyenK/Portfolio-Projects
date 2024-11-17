@@ -11,11 +11,9 @@ Hello there :wave:, thank you for stopping by! I am Huyen, I began my journey in
 
 | Order | Project name    | Technologies                |
 | :-------- | :------- | :------------------------- |
-
 | I | Fitness website | TypeScript, Node.js, PostgresQL |
 | II | DeliveMe | React: Javascript/TypeScript, Node.js, Express, MySQL |
 | III | GoEat | React native|
-
 
 ## I. Fitness website - team project
 - This Fitness website has been created as a project work for OAMK first-year Information Technology studies. The task was to implement a web app/site based on the chosen topic and to include certain functionalities such as registering, logging, editing data, and commenting. Implementation was to be done using TypeScript, NodeJS, Express, and PostgreSQL.

@@ -17,7 +17,7 @@ Hello there :wave:, thank you for stopping by! I am Huyen, I began my journey in
 | III | GoEat | React native|
 
 
-## III. Fitness website - team project
+## I. Fitness website - team project
 - This Fitness website has been created as a project work for OAMK first-year Information Technology studies. The task was to implement a web app/site based on the chosen topic and to include certain functionalities such as registering, logging, editing data, and commenting. Implementation was to be done using TypeScript, NodeJS, Express, and PostgreSQL.
 
 - The website includes fitness-related blog texts that users can read and comment on, a webshop to buy courses related to fitness and wellness, body mass index and calorie calculators, and short stories about successful user experiences. Our final website looks quite similar to the UI design we did at the beginning of the project. 
@@ -31,7 +31,7 @@ Hello there :wave:, thank you for stopping by! I am Huyen, I began my journey in
 - Blog page: full-stack developer for blog reaction and comment section. 
 ![Blog reaction and commenting](https://github.com/Nguyen-Thi-HuyenK/Portfolio-Projects/blob/main/assets/FitnessWebsite/blogReaction.png)
 
-## IV. DeliveMe - React application - Team project
+## II. DeliveMe - React application - Team project
 - This is quite an advanced project in which we were asked to create a web-based automated parcel delivery system that includes 4 separate applications for different user roles. These are Consumer User App, Delivery Truck Driver App, Touchscreen App, and Parcel Generator “robot” App.
 
 - Link for **Figma designs:**  [here.](https://www.figma.com/file/GCcswKBoM0Mw7A1t5ddLME/Parcel-Delivery-App?type=design&node-id=0-1&mode=design&t=OQdyRkzDstrvgy5o-0)
@@ -45,7 +45,7 @@ Hello there :wave:, thank you for stopping by! I am Huyen, I began my journey in
 - In this project, I had a chance to practice skills of teamwork in using the Kanban process model, Github version control, and different project management tools.
 
 - For more details, please refer to the original project which contains 6 repositories:  [DeliverMe repositories](https://github.com/orgs/din22-awap-ParcelDeliveryApp-team1/repositories)
-## V. GoEat - React native mobile application - International team project (Finland + Netherlands)
+## III. GoEat - React native mobile application - International team project (Finland + Netherlands)
 - This mobile app, developed using React Native, is compatible with both Android and iPhone. The frontend was designed by OAMK students, while our Dutch counterparts handled the backend. The app is user-friendly, offering customers a wide range of options to search and reserve restaurants based on location and various other criteria.
 - Link for **Figma designs:**  [here.](https://www.figma.com/design/ijCo2hscx1MbkXyas4EfON/GoEat?node-id=0-1&t=zgOCqVPpfy88Hrw3-0)
   

@@ -15,7 +15,7 @@ Hello there :wave:, thank you for stopping by! I am Huyen, I began my journey in
 | II | DeliveMe | React: Javascript/TypeScript, Node.js, Express, MySQL |
 | III | GoEat | React native|
 
-## I. Fitness website - team project
+## I. Fitness website - Team project
 - This Fitness website has been created as a project work for OAMK first-year Information Technology studies. The task was to implement a web app/site based on the chosen topic and to include certain functionalities such as registering, logging, editing data, and commenting. Implementation was to be done using TypeScript, NodeJS, Express, and PostgreSQL.
 
 - The website includes fitness-related blog texts that users can read and comment on, a webshop to buy courses related to fitness and wellness, body mass index and calorie calculators, and short stories about successful user experiences. Our final website looks quite similar to the UI design we did at the beginning of the project. 

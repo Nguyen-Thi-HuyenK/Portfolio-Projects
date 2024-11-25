@@ -45,6 +45,7 @@ Hello there :wave:, thank you for stopping by! I am Huyen, I began my journey in
 - For more details, please refer to the original project which contains 6 repositories:  [DeliverMe repositories](https://github.com/orgs/din22-awap-ParcelDeliveryApp-team1/repositories)
 ## III. GoEat - React native mobile application - International team project (Finland + Netherlands)
 - This mobile app, developed using React Native, is compatible with both Android and iPhone. The frontend was designed by OAMK students, while our Dutch counterparts handled the backend. The app is user-friendly, offering customers a wide range of options to search and reserve restaurants based on location and various other criteria.
+- Jira was used to manage tasks and track progress. We also followed the Scrum framework within the Agile methodology
 - Link for **Figma designs:**  [here.](https://www.figma.com/design/ijCo2hscx1MbkXyas4EfON/GoEat?node-id=0-1&t=zgOCqVPpfy88Hrw3-0)
   
 **In this team project, my primary responsibilities included UI design and front-end development. I focused on the Home view, implementing features such as searching for restaurants by name, dish, categories, and subcategories/tags. I also developed the Restaurant view, displaying comprehensive restaurant information, and contributed to the functionality of the Register and Login views.**

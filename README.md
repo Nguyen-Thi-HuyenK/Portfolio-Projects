@@ -8,10 +8,26 @@ Hello there :wave:, thank you for stopping by! I am Huyen, I began my journey in
 - **Software Testing & QA:** Manual testing, Test automation, Robot Framework (with custom Python keywords),  Selenium, Airtest, Bug tracking (Jira, SpiraTest), Test documentation (Confluence)  
 - **CI/CD & Tools:** Git, GitLab, Jenkins, CI pipelines
 
-## Software Testing & QA
-**[Testing-QA-CI-Practice](https://github.com/Nguyen-Thi-HuyenK/Testing-qa-ci-practice)**
+## 🧪 Software Testing & QA
 
-## Summary of my projects:
+Please refer to this [Testing-QA-CI-Practice](https://github.com/Nguyen-Thi-HuyenK/Testing-qa-ci-practice)) repository to check out my practical experience, projects, and key concepts in software testing, QA, and continuous integration. It includes hands-on examples using tools and frameworks I’ve learned during my traineeship and self-study.
+
+### 🔧 Key Areas:
+- Manual Testing: Functional, performance, regression, and stress testing
+- Test Automation: Robot Framework, Selenium, Airtest, Python
+- CI/CD Workflows: GitLab, Jenkins
+- QA Tools: Jira, SpiraTest, Confluence
+- Agile Practices: Scrum, daily stand-ups, sprint planning
+
+### 🛠 Tools & Technologies:
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
+![Robot Framework](https://img.shields.io/badge/-Robot_Framework-green?style=flat-square)
+![Selenium](https://img.shields.io/badge/-Selenium-brightgreen?style=flat-square&logo=selenium)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira)
+
+## 💻 Summary of My Projects in Web and Mobile Development:
 
 | Order | Project name    | Technologies                |
 | :-------- | :------- | :------------------------- |

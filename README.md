@@ -9,7 +9,7 @@ Hello there :wave:, thank you for stopping by! I am Huyen, I began my journey in
 - **CI/CD & Tools:** Git, GitLab, Jenkins, CI pipelines
 
 ## Software Testing & QA
-**[Testing-QA-CI-Practice]** (https://github.com/Nguyen-Thi-HuyenK/Testing-qa-ci-practice)
+**[Testing-QA-CI-Practice](https://github.com/Nguyen-Thi-HuyenK/Testing-qa-ci-practice)**
 
 ## Summary of my projects:
 

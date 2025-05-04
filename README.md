@@ -10,7 +10,7 @@ Hello there :wave:, thank you for stopping by! I am Huyen, I began my journey in
 
 ## 🧪 Software Testing & QA
 
-Please refer to this [Testing-QA-CI-Practice](https://github.com/Nguyen-Thi-HuyenK/Testing-qa-ci-practice) repository to check out my practical experience, projects, and key concepts in software testing, QA, and continuous integration. It includes hands-on examples using tools and frameworks I’ve learned during my traineeship and self-study.
+Please refer to this **[Testing-QA-CI-Practice](https://github.com/Nguyen-Thi-HuyenK/Testing-qa-ci-practice)** repository to check out my practical experience, projects, and key concepts in software testing, QA, and continuous integration. It includes hands-on examples using tools and frameworks I’ve learned during my traineeship and self-study.
 
 ### 🔧 Key Areas:
 - Manual Testing: Functional, performance, regression, and stress testing

@@ -12,14 +12,14 @@ Hello there :wave:, thank you for stopping by! I am Huyen, I began my journey in
 
 Please refer to this **[Testing-QA-CI-Practice](https://github.com/Nguyen-Thi-HuyenK/Testing-qa-ci-practice)** repository to check out my practical experience, projects, and key concepts in software testing, QA, and continuous integration. It includes hands-on examples using tools and frameworks I’ve learned during my traineeship and self-study.
 
-### 🔧 Key Areas:
+#### 🔧 Key Areas:
 - Manual Testing: Functional, performance, regression, and stress testing
 - Test Automation: Robot Framework, Selenium, Airtest, Python
 - CI/CD Workflows: GitLab, Jenkins
 - QA Tools: Jira, SpiraTest, Confluence
 - Agile Practices: Scrum, daily stand-ups, sprint planning
 
-### 🛠 Tools & Technologies:
+#### 🛠 Tools & Technologies:
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
 ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-green?style=flat-square)
 ![Selenium](https://img.shields.io/badge/-Selenium-brightgreen?style=flat-square&logo=selenium)

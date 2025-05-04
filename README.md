@@ -5,7 +5,11 @@ Hello there :wave:, thank you for stopping by! I am Huyen, I began my journey in
 - **Front-end technologies:** HTML, CSS, Javascript, TypeScript, React, React Native
 - **Back-end technologies:** Node.js, TypeScript, Express.js.
 - **Databases:** MySQL, PostgreSQL.
+- **Software Testing & QA:** Manual testing, Test automation, Robot Framework (with custom Python keywords),  Selenium, Airtest, Bug tracking (Jira, SpiraTest), Test documentation (Confluence)  
+- **CI/CD & Tools:** Git, GitLab, Jenkins, CI pipelines
 
+## Software Testing & QA
+**[Testing-QA-CI-Practice]** (https://github.com/Nguyen-Thi-HuyenK/Testing-qa-ci-practice)
 
 ## Summary of my projects:
 

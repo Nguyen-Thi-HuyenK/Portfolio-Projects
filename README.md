@@ -1,6 +1,6 @@
 # Portfolio-Projects
 ## 🚀 About Me
-Hello there :wave:, thank you for stopping by! I am Huyen, I began my journey in Information Technology in August 2022 at OAMK, and it has been an interesting experience with substantial learning along the way. I have completed various small projects, both individually and collaboratively with my team, throughout my studies. In this repository, I have documented a collection of some of these projects.
+Hello there :wave:, thank you for stopping by! I am Huyen (Lilia is my Finnish name), I began my journey in Information Technology in August 2022 at OAMK, and it has been an interesting experience with substantial learning along the way. I have completed various small projects, both individually and collaboratively with my team, throughout my studies. In this repository, I have documented a collection of some of these projects.
 ## 🛠 My skills:
 - **Front-end technologies:** HTML, CSS, Javascript, TypeScript, React, React Native
 - **Back-end technologies:** Node.js, TypeScript, Express.js.
